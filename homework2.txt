@@ -2,3 +2,5 @@
 2. Copy code from the page
 3. Open Git on your computer
 4. Paste the code
+5. Send the "git push" command
+6. The github page should be updated
