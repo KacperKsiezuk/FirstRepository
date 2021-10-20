@@ -1,0 +1,4 @@
+1. Create an empty repository on github.com
+2. Copy code from the page
+3. Open Git on your computer
+4. Paste the code
